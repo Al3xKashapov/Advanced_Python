@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 alexkashapov alexkashapov 1831 Apr  1 21:55 get_mean_size.py
+-rw-rw-r-- 1 alexkashapov alexkashapov    0 Apr  1 21:56 ls.txt
+-rw-rw-r-- 1 alexkashapov alexkashapov 2713 Mar 26  2023 README.md
